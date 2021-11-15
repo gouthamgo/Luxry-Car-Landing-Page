@@ -2,7 +2,7 @@
 
 Future Changes 
 
-- to make to fully functional
+-- to make to fully functional
 
 
  ![](3.PNG)
